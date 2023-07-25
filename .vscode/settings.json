@@ -1,0 +1,13 @@
+{
+    "python.testing.unittestArgs": [
+        "-t",
+        ".",
+        "-v",
+        "-s",
+        "./test",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
